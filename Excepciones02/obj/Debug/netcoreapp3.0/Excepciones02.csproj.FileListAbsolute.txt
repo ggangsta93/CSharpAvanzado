@@ -1,0 +1,11 @@
+C:\Users\Javier Arias\source\repos\CSharpAvanzado\Excepciones02\bin\Debug\netcoreapp3.0\Excepciones02.exe
+C:\Users\Javier Arias\source\repos\CSharpAvanzado\Excepciones02\bin\Debug\netcoreapp3.0\Excepciones02.deps.json
+C:\Users\Javier Arias\source\repos\CSharpAvanzado\Excepciones02\bin\Debug\netcoreapp3.0\Excepciones02.runtimeconfig.json
+C:\Users\Javier Arias\source\repos\CSharpAvanzado\Excepciones02\bin\Debug\netcoreapp3.0\Excepciones02.runtimeconfig.dev.json
+C:\Users\Javier Arias\source\repos\CSharpAvanzado\Excepciones02\bin\Debug\netcoreapp3.0\Excepciones02.dll
+C:\Users\Javier Arias\source\repos\CSharpAvanzado\Excepciones02\bin\Debug\netcoreapp3.0\Excepciones02.pdb
+C:\Users\Javier Arias\source\repos\CSharpAvanzado\Excepciones02\obj\Debug\netcoreapp3.0\Excepciones02.csprojAssemblyReference.cache
+C:\Users\Javier Arias\source\repos\CSharpAvanzado\Excepciones02\obj\Debug\netcoreapp3.0\Excepciones02.AssemblyInfoInputs.cache
+C:\Users\Javier Arias\source\repos\CSharpAvanzado\Excepciones02\obj\Debug\netcoreapp3.0\Excepciones02.AssemblyInfo.cs
+C:\Users\Javier Arias\source\repos\CSharpAvanzado\Excepciones02\obj\Debug\netcoreapp3.0\Excepciones02.dll
+C:\Users\Javier Arias\source\repos\CSharpAvanzado\Excepciones02\obj\Debug\netcoreapp3.0\Excepciones02.pdb

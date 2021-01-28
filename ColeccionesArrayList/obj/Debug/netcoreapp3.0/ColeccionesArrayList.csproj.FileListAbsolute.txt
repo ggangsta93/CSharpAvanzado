@@ -1,0 +1,11 @@
+C:\Users\Javier Arias\source\repos\CSharpAvanzado\ColeccionesArrayList\bin\Debug\netcoreapp3.0\ColeccionesArrayList.exe
+C:\Users\Javier Arias\source\repos\CSharpAvanzado\ColeccionesArrayList\bin\Debug\netcoreapp3.0\ColeccionesArrayList.deps.json
+C:\Users\Javier Arias\source\repos\CSharpAvanzado\ColeccionesArrayList\bin\Debug\netcoreapp3.0\ColeccionesArrayList.runtimeconfig.json
+C:\Users\Javier Arias\source\repos\CSharpAvanzado\ColeccionesArrayList\bin\Debug\netcoreapp3.0\ColeccionesArrayList.runtimeconfig.dev.json
+C:\Users\Javier Arias\source\repos\CSharpAvanzado\ColeccionesArrayList\bin\Debug\netcoreapp3.0\ColeccionesArrayList.dll
+C:\Users\Javier Arias\source\repos\CSharpAvanzado\ColeccionesArrayList\bin\Debug\netcoreapp3.0\ColeccionesArrayList.pdb
+C:\Users\Javier Arias\source\repos\CSharpAvanzado\ColeccionesArrayList\obj\Debug\netcoreapp3.0\ColeccionesArrayList.csprojAssemblyReference.cache
+C:\Users\Javier Arias\source\repos\CSharpAvanzado\ColeccionesArrayList\obj\Debug\netcoreapp3.0\ColeccionesArrayList.AssemblyInfoInputs.cache
+C:\Users\Javier Arias\source\repos\CSharpAvanzado\ColeccionesArrayList\obj\Debug\netcoreapp3.0\ColeccionesArrayList.AssemblyInfo.cs
+C:\Users\Javier Arias\source\repos\CSharpAvanzado\ColeccionesArrayList\obj\Debug\netcoreapp3.0\ColeccionesArrayList.dll
+C:\Users\Javier Arias\source\repos\CSharpAvanzado\ColeccionesArrayList\obj\Debug\netcoreapp3.0\ColeccionesArrayList.pdb

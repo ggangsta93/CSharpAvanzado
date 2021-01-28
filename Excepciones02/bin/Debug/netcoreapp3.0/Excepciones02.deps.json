@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Excepciones02/1.0.0": {
+        "runtime": {
+          "Excepciones02.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Excepciones02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

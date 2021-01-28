@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "PsjD079MqUcbZu/hbDNtIz1XU1a34YyR4elQn1w5kFt9S8F0NNjKEcAjGQXoqz64qORSIGg4psnqcPPbrmnG8w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Javier Arias\\Desktop\\repos-20200412T203141Z-001\\repos\\CSharpAvanzado\\ClasesGenericas02\\ClasesGenericas02.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Javier Arias\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Javier Arias\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Javier Arias\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\Javier Arias\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

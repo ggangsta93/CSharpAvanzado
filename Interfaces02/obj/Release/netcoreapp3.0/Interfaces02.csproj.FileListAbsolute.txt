@@ -1,0 +1,3 @@
+C:\Users\Javier Arias\source\repos\CSharpAvanzado\Interfaces02\obj\Release\netcoreapp3.0\Interfaces02.csprojAssemblyReference.cache
+C:\Users\Javier Arias\source\repos\CSharpAvanzado\Interfaces02\obj\Release\netcoreapp3.0\Interfaces02.AssemblyInfoInputs.cache
+C:\Users\Javier Arias\source\repos\CSharpAvanzado\Interfaces02\obj\Release\netcoreapp3.0\Interfaces02.AssemblyInfo.cs
